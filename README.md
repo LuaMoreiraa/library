@@ -43,6 +43,5 @@ Para executar o projeto, siga estas etapas:
 4. Explore as funcionalidades disponíveis, conforme descrito acima.
 
 ## Diagrama de Classes
-
-
+![Diagrama de Classes do Sistema de Biblioteca](diagramadeclasses.png)
 
